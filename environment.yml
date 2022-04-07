@@ -6,4 +6,5 @@ dependencies:
   - pandas
   - scikit-learn
   - jupyterlab
+  - matplotlib
 prefix: C:\Anaconda3\envs\env_cluster_binder
